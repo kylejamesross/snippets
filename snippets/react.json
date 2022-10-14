@@ -2,6 +2,8 @@
   "react typescript funcional component": {
     "prefix": "rtfc",
     "body": [
+      "import React from 'react';",
+      "",
       "interface I${TM_FILENAME_BASE} {",
       "  ${1}",
       "}",
