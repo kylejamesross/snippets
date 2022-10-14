@@ -35,7 +35,7 @@
       "  );",
       "});",
       "",
-      "export ${TM_FILENAME_BASE};",
+      "export { ${TM_FILENAME_BASE} };",
       ""
     ],
     "description": "React typescript functional component observer"
@@ -61,7 +61,7 @@
       "  }",
       "}",
       "",
-      "export ${TM_FILENAME_BASE};",
+      "export { ${TM_FILENAME_BASE}; }",
       ""
     ],
     "description": "React Typescript stateful component"
@@ -75,7 +75,7 @@
       "  ${1}",
       ");",
       "",
-      "export ${TM_FILENAME_BASE};",
+      "export { ${TM_FILENAME_BASE} };",
       ""
     ],
     "description": "React functional component"
