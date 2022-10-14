@@ -8,6 +8,10 @@
       {
         "language": ["typescriptreact", "javascriptreact"],
         "path": "./snippets/react.json"
+      },
+      {
+        "language": ["typescriptreact", "javascriptreact", "javascript", "typescript"],
+        "path": "./snippets/javascript.json"
       }
     ]
   }
