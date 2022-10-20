@@ -80,10 +80,6 @@
     ],
     "description": "React functional component"
   },
-  "styled component": {
-    "prefix": "sc",
-    "body": "export const ${1:ComponentName} = styled.${2:Component}`\n\t\n`;"
-  },
   "useCallback": {
     "key": "useCallback",
     "prefix": "useCallbackSnippet",
