@@ -17,5 +17,10 @@
   "styled component": {
     "prefix": "sc",
     "body": "export const ${1:ComponentName} = styled.${2:Component}`\n\t\n`;"
-  }
+  },
+  "Use props.theme inside styled-component": {
+		"prefix": "scpt",
+		"body": "${({ theme }) => theme.$1};",
+		"description": "Use props.theme inside styled-component"
+	}
 }
