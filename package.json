@@ -12,7 +12,7 @@
       {
         "language": ["typescriptreact", "javascriptreact", "javascript", "typescript"],
         "path": "./snippets/javascript.json"
-      }
+      },
       {
         "language": ["typescript", "typescriptreact"],
         "path": "./snippets/typescript.json"
