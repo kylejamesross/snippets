@@ -18,7 +18,7 @@
         "path": "./snippets/typescript.json"
       },
       {
-        "language": ["csharp"],
+        "language": ["csharp", "cs"],
         "path": "./snippets/csharp.json"
       }
     ]
