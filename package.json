@@ -16,6 +16,10 @@
       {
         "language": ["typescript", "typescriptreact"],
         "path": "./snippets/typescript.json"
+      },
+      {
+        "language": ["csharp"],
+        "path": "./snippets/csharp.json"
       }
     ]
   }
