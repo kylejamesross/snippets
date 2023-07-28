@@ -19,5 +19,5 @@
     "prefix": "prop",
     "body": ["public ${1:int} ${2:PropertyName} { get; set; }$0"],
     "description": "An automatically implemented property."
-  },
+  }
 }
